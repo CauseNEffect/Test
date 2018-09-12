@@ -1,1 +1,1 @@
-This is my updated test file. Another Change. Change #3
+This is my updated test file. Another Change. Change #3. This is Change #4
